@@ -68,6 +68,4 @@ I enjoy building practical systems that solve real problems using modern tools.
 - Frontend development improvement
 
 
-![Workflow Screenshot](QAaiAgent.png)
-![Workflow Screenshot](QAInjest.png)
-![Workflow Screenshot](ScheduledDiscordDM.png)
+
