@@ -66,3 +66,8 @@ I enjoy building practical systems that solve real problems using modern tools.
 - Advanced automation workflows (n8n, Zapier)
 - AI agents and integrations
 - Frontend development improvement
+
+
+![Workflow Screenshot](QAaiAgent.png)
+![Workflow Screenshot](QAInjest.png)
+![Workflow Screenshot](ScheduledDiscordDM.png)
